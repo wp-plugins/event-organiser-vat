@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: event-organiser-vat 0.1.0.b-1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-17 00:41+0000\n"
+"PO-Revision-Date: 2013-12-17 15:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.2\n"
+"Language: de_DE\n"
+
+#: admin/settings.php:18
+msgid "VAT (%)"
+msgstr "MwSt. (%)"
+
+#: includes/vat.php:40
+#, php-format
+msgid "VAT (%d%%)"
+msgstr "%d%% MwSt."
+
+#: includes/vat.php:119
+msgid "VAT"
+msgstr "MwSt."
