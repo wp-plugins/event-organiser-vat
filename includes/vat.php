@@ -58,7 +58,7 @@ function _eventorganiservat_vat_row( $event_id, $form ){
 			
 			<td><strong> 
 				<?php printf( 
-						'%s (%d%%)',
+						'%s (%s%%)',
 						esc_html( eventorganiservat_get_vat_label() ), 
 						eventorganiservat_get_vat_percent() 
 				); ?>
